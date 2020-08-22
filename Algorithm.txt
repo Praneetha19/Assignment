@@ -1,0 +1,21 @@
+#Alogrithm to print the grade obtained by a student. 
+Step-1: Start
+Step-2: Read the marks of the subjects S1,S2,S3,S4,S5
+Step-3: Percentage=((S1+S2+S3+S4+S5)/500)*100
+Step-4: if (Percentage>=90)
+            print("A GRADE")
+        elif (Percentage>=80)
+            print("B GRADE")
+        elif (Percentage>=70)
+            print("C GRADE")
+        elif (Percentage>=60)
+            print("D GRADE")
+        elif (Percentage>=50)
+            print("E GRADE")
+        else
+            print("FAIL")
+Step-5: End
+
+
+
+
